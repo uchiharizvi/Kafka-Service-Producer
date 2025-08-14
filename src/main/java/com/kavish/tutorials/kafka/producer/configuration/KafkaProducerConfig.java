@@ -1,4 +1,4 @@
-package com.hdfc.demo.configuration;
+package com.kavish.tutorials.kafka.producer.configuration;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;

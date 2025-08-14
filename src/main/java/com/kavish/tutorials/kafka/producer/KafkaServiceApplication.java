@@ -1,4 +1,4 @@
-package com.hdfc.demo;
+package com.kavish.tutorials.kafka.producer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
