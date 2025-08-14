@@ -1,0 +1,10 @@
+server:
+  port:
+    8083
+spring:
+  kafka:
+    bootstrap-servers:
+      localhost:9092 # replace with actual kafka broker address
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
